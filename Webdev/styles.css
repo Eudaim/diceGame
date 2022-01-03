@@ -1,0 +1,22 @@
+body
+{
+    background-color: powderblue; 
+    color: palevioletred; 
+    font-family: 'Shizuru', cursive;
+}
+#webTitle
+{
+    font-size: 7rem; 
+    margin-bottom: 100px; 
+
+}
+.diceCard
+{
+    font-size: 5rem;
+    display: inline-block;
+    padding: 100px 150px;
+}
+.playerTag
+{
+    padding-bottom: 50px;
+}
